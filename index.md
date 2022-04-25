@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /assets/img/hero.png
 heroText: Inanis Dev Team
 tagline: We are Inanis Dev Team and our passion is open source projects
 actionText: Get Started →
