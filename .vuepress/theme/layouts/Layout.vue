@@ -1,7 +1,9 @@
 <template>
   <ParentLayout>
     <template #page-bottom>
-      <div>GPL-3.0 Licensed | Made by InanisDevTeam | 2022</div>
+      <div style="text-align: center;">
+      <hr>
+      GPL-3.0 Licensed | Made by InanisDevTeam | 2022</div>
     </template>
   </ParentLayout>
 </template>
