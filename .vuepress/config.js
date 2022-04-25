@@ -9,7 +9,7 @@ module.exports = {
         sidebar: [
           {
             title: 'Projects',   // required
-            path: '/docs/Projects/projects.md',      // optional, link of the title, which should be an absolute path and must exist
+            path: '/docs/Projects/projects.html',      // optional, link of the title, which should be an absolute path and must exist
             collapsable: true, // optional, defaults to true
             sidebarDepth: 1,    // optional, defaults to 1
             children: [
