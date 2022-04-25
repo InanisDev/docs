@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /.vuepress/public/assets/img/hero.png
+heroImage: /hero.png
 heroText: Inanis Dev Team
 tagline: We are Inanis Dev Team and our passion is open source projects
 actionText: Get Started →
