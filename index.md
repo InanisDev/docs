@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: /hero.png
-heroText: Hero Title
-tagline: Hero subtitle
+heroImage: /.vuepress/public/assets/img/hero.png
+heroText: Inanis Dev Team
+tagline: We are Inanis Dev Team and our passion is open source projects
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /docs/
 features:
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
