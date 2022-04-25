@@ -3,5 +3,5 @@ module.exports = {
       logo: '/assets/img/logo.png',
     },
     title: 'Inanis Dev Team',
-    description: 'Just playing around'
+    description: 'Official Documentation'
   }
