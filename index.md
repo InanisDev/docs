@@ -4,7 +4,7 @@ heroImage: /assets/img/hero.png
 heroText: Inanis Dev Team
 tagline: We are Inanis Dev Team and our passion is open source projects
 actionText: Get Started →
-actionLink: /docs/
+actionLink: /docs/index.md
 features:
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
