@@ -6,13 +6,13 @@ tagline: We are Inanis Dev Team and our passion is open source projects
 actionText: Get Started →
 actionLink: /docs/index.md
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: GPL-3.0 Licensed | Made by InanisDevTeam
+- title: Open Source
+  details: Here at Inanis Dev Team, we believe that open source is the best way to build software.
+- title: Completely Free
+  details: All of our releases are provided to you all for free! No payment is needed to use our projects.
+- title: Small Team
+  details: Our small team is composed of a few people who love open source and love to build software.
+footer: GPL-3.0 Licensed | Made by InanisDevTeam | 2022
 ---
 
 
