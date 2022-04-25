@@ -1,6 +1,4 @@
 # This is a test
-test page
-
 ---
 home: true
 heroImage: /hero.png
@@ -8,7 +6,6 @@ heroText: Hero Title
 tagline: Hero subtitle
 actionText: Get Started →
 actionLink: /guide/
-[Test page](docs/test.md)
 features:
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
