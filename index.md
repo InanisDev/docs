@@ -14,5 +14,3 @@ features:
   details: Our small team is composed of a few people who love open source and love to build software.
 footer: GPL-3.0 Licensed | Made by InanisDevTeam | 2022
 ---
-
-
