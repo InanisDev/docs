@@ -7,19 +7,15 @@ module.exports = {
           { text: 'External', link: 'https://google.com' }
         ],
         sidebar: [
+          ['/', 'Home'],
           {
-            title: 'Projects',   // required
+            title: 'Our Team',   // required
             path: '/docs/',      // optional, link of the title, which should be an absolute path and must exist
             collapsable: true, // optional, defaults to true
             sidebarDepth: 1,    // optional, defaults to 1
             children: [
-              '/'
+              '/docs/'
             ]
-          },
-          {
-            title: 'Group 2',
-            children: [ /* ... */ ],
-            initialOpenGroupIndex: -1 // optional, defaults to 0, defines the index of initially opened subgroup
           }
         ]
       },
