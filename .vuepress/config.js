@@ -1,5 +1,7 @@
 module.exports = {
+  theme: 'default-prefers-color-scheme',
   themeConfig: {
+    overrideTheme: 'dark',
     logo: "/assets/img/logo.png",
     lastUpdated: "Last Updated", // string | boolean
     repo: "InanisDev/docs",
