@@ -12,5 +12,5 @@ features:
   details: All of our releases are provided to you all for free! No payment is needed to use our projects.
 - title: Small Team
   details: Our small team is composed of a few people who love open source and love to build software.
-footer: GPL-3.0 Licensed | Made by InanisDevTeam | 2022
+footer: GNU - GPLv3.0+ Licensed | Made by InanisDevTeam | 2022
 ---
