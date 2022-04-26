@@ -4,8 +4,8 @@ module.exports = {
     lastUpdated: "Last Updated", // string | boolean
     repo: "InanisDev/docs",
     repoLabel: "Contribute!",
-    docsRepo: "InanisDev/docs",
-    docsDir: "docs",
+    //docsRepo: "InanisDev/docs",
+    //docsDir: "docs",
     docsBranch: "dev",
     editLinks: true,
     editLinkText: "Help us improve this page!",
