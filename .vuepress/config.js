@@ -4,7 +4,7 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Projects', link: '/docs/' },
-          { text: 'External', link: 'https://google.com' }
+          { text: 'Github', link: 'https://github.com/InanisDev' }
         ],
         sidebar: [
           ['/', 'Home'],
@@ -15,6 +15,16 @@ module.exports = {
             sidebarDepth: 1,    // optional, defaults to 1
             children: [
               '/docs/'
+            ]
+          },
+          {
+            title: 'Methuselah OS',   // required
+            path: '/docs/Methuselah/',      // optional, link of the title, which should be an absolute path and must exist
+            collapsable: true, // optional, defaults to true
+            sidebarDepth: 1,    // optional, defaults to 1
+            children: [
+              '/docs/Methuselah/',
+              '/docs/Methuselah/Features.md'
             ]
           }
         ]
