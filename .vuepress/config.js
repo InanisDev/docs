@@ -1,6 +1,7 @@
 module.exports = {
     themeConfig: {
       logo: '/assets/img/logo.png',
+      lastUpdated: 'Last Updated', // string | boolean
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Projects', link: '/docs/' },
