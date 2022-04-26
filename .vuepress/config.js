@@ -26,16 +26,6 @@ module.exports = {
               '/docs/Methuselah/',
               '/docs/Methuselah/Features.md'
             ]
-          },
-          {
-            title: 'Other Projects',   // required
-            path: '/docs/OtherProjects/',      // optional, link of the title, which should be an absolute path and must exist
-            collapsable: true, // optional, defaults to true
-            sidebarDepth: 1,    // optional, defaults to 1
-            children: [
-              '/docs/OtherProjects/',
-              '/docs/OtherProjects/MOSAdventures.md'
-            ]
           }
         ]
       },
