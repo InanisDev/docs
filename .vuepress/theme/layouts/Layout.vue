@@ -3,7 +3,8 @@
     <template #page-bottom>
       <div style="text-align: center;">
       <hr>
-      GPL-3.0 Licensed | Made by InanisDevTeam | 2022</div>
+      GPL-3.0 Licensed | Made by InanisDevTeam | 2022 <br />
+      </div>
     </template>
   </ParentLayout>
 </template>

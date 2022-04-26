@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "vuepress-theme-default-prefers-color-scheme": "^2.0.0"
   },
   "scripts": {
     "dev": "vuepress dev",
