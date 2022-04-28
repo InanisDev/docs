@@ -1,7 +1,6 @@
 module.exports = {
-  theme: 'default-prefers-color-scheme',
+  theme: 'yuu',
   themeConfig: {
-    prefersTheme: 'dark',
     logo: "/assets/img/logo.png",
     lastUpdated: "Last Updated", // string | boolean
     repo: "InanisDev/docs",

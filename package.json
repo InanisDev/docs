@@ -6,5 +6,8 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
+  },
+  "dependencies": {
+    "vuepress-theme-yuu": "^3.1.1"
   }
 }
