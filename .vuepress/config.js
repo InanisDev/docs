@@ -1,4 +1,4 @@
-module.exports = {
+const config = {
   theme: 'yuu',
   themeConfig: {
     yuu: {
@@ -39,3 +39,5 @@ module.exports = {
   title: "Inanis Dev Team",
   description: "Official Documentation",
 };
+
+module.exports = config;
