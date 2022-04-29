@@ -6,8 +6,8 @@ tagline: We are Inanis Dev Team and our passion is open source projects
 actionText: Get Started →
 actionLink: /docs/index.md
 features:
-- title: Open Source
-  details: Here at Inanis Dev Team, we believe that open source is the best way to build software.
+- title: Linux
+  details: Here at Inanis Dev Team, we love the linux kernel. Most of our projects are actually centered around it!
 - title: Completely Free
   details: All of our releases are provided to you all for free! No payment is needed to use our projects.
 - title: Small Team

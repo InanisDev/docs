@@ -1,20 +1,29 @@
-module.exports = {
-  theme: 'default-prefers-color-scheme',
+ const config = {
+  title: "Inanis Dev Team",
+  description: "Official Documentation",
+  plugins: [],
+  theme: "yuu",
   themeConfig: {
-    prefersTheme: 'dark',
+    yuu: {
+      defaultDarkTheme: true,
+    },
     logo: "/assets/img/logo.png",
     lastUpdated: "Last Updated", // string | boolean
     repo: "InanisDev/docs",
-    repoLabel: "Contribute!",
-    //docsRepo: "InanisDev/docs",
-    //docsDir: "docs",
-    docsBranch: "dev",
     editLinks: true,
     editLinkText: "Help us improve this page!",
     nav: [
-      { text: "Home", link: "/" },
-      { text: "Projects", link: "/docs/" },
-      { text: "Github", link: "https://github.com/InanisDev" },
+      { 
+        text: "Home", 
+        link: "/",
+      },
+      { 
+        text: "Projects", 
+        link: "/docs/",
+       },
+      { text: "Github",
+        link: "https://github.com/InanisDev",
+      },
     ],
     sidebar: [
       ["/", "Home"],
@@ -34,6 +43,6 @@ module.exports = {
       },
     ],
   },
-  title: "Inanis Dev Team",
-  description: "Official Documentation",
 };
+
+module.exports = config;
