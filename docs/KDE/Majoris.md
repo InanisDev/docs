@@ -11,7 +11,7 @@ git clone https://github.com/InanisDev/MajorisKDE/releases/tag/KDE
 ```
 step 2:
 ```bash
-cp home/MajorisKDE-main home/.local/plasma
+cp ~/MajorisKDE-main ~/.local/plasma
 ```
 
 
