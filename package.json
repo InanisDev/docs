@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "repository": "https://github.com/InanisDev/docsv2.git",
+  "author": "InanisDevTeam",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "serve": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.2.0",
+    "vuepress": "^1.2.0",
+    "vuepress-theme-yuu": "^3.1.1"
+  },
+  "dependencies": {
+    "vuepress-plugin-container": "^2.1.5"
+  }
+}
