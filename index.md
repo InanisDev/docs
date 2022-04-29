@@ -7,7 +7,7 @@ actionText: Get Started →
 actionLink: /docs/index.md
 features:
 - title: Linux
-  details: Here at Inanis Dev Team, we love the linux kernel. Most of our projects are actually centered around it!
+  details: Here at Inanis Dev Team, we love the Linux kernel. Most of our projects are actually centered around it!
 - title: Completely Free
   details: All of our releases are provided to you all for free! No payment is needed to use our projects.
 - title: Small Team
