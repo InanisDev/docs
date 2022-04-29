@@ -1,12 +1,11 @@
 {
   "devDependencies": {
     "vuepress": "^1.9.7",
-    "vuepress-theme-yuu": "^3.0.0"
+    "vuepress-plugin-container": "^2.1.5",
+    "vuepress-theme-yuu": "^3.1.1"
   },
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
-  },
-  "dependencies": {
   }
 }
