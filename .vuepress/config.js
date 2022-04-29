@@ -41,6 +41,13 @@
         sidebarDepth: 1, // optional, defaults to 1
         children: ["/docs/Methuselah/", "/docs/Methuselah/Features.md"],
       },
+      {
+        title: "KDE", // required
+        path: "/docs/KDE/Majoris.md", // optional, link of the title, which should be an absolute path and must exist
+        collapsable: true, // optional, defaults to true
+        sidebarDepth: 1, // optional, defaults to 1
+        children: ["/docs/KDE/Majoris.md"],
+      },
     ],
   },
 };
