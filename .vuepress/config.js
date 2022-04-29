@@ -21,9 +21,6 @@
         text: "Projects", 
         link: "/docs/",
        },
-      { text: "Github",
-        link: "https://github.com/InanisDev",
-      },
     ],
     sidebar: [
       ["/", "Home"],
