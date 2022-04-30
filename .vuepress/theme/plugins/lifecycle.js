@@ -3,7 +3,7 @@ export default {
 		const {
 			colorThemes = ['blue', 'red', 'purple'],
 			defaultColorTheme = 'default',
-			defaultDarkTheme = false,
+			defaultDarkTheme = true,
 			disableDarkTheme = false,
 			disableThemeIgnore = false,
 			extraOptions = {},
