@@ -1,5 +1,8 @@
 <template>
   <ParentLayout>
+    <template #page-bottom>
+      <div style="text-align:center">GNU - GPLv3.0+ Licensed | Made by InanisDevTeam | 2022</div>
+    </template>
   </ParentLayout>
 </template>
 
