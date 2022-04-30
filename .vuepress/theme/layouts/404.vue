@@ -1,14 +1,13 @@
 <template>
-  <ParentLayout>
-  </ParentLayout>
+	<parent-layout />
 </template>
 
 <script>
-import ParentLayout from '@parent-theme/layouts/Layout.vue'
+import ParentLayout from '@parent-theme/layouts/404.vue'
 import themeHandler from '@theme/mixins/themeHandler.js'
 
 export default {
-	name: 'Layout',
+	name: 'NotFound',
 	components: {
 		ParentLayout,
 	},
